@@ -7,6 +7,6 @@ forma para executar o mapa web
  pip install folium 
  pip install pandas
 
- mode de executar o programa
+ modo de executar o programa
  
  Python map.py 
